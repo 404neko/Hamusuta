@@ -1,0 +1,183 @@
+* 9 - 1.gif 89 images
+  logical screen 335x290
+  global color table [256]
+  background 0
+  loop count 254
+  + image #0 335x290
+    disposal asis
+  + image #1 335x290
+    disposal asis
+  + image #2 335x290
+    disposal asis
+  + image #3 335x290
+    disposal asis
+  + image #4 335x290
+    disposal asis
+  + image #5 335x290
+    disposal asis
+  + image #6 335x290
+    disposal asis
+  + image #7 335x290
+    disposal asis
+  + image #8 335x290
+    disposal asis
+  + image #9 335x290
+    disposal asis
+  + image #10 335x290
+    disposal asis
+  + image #11 335x290
+    disposal asis
+  + image #12 335x290
+    disposal asis
+  + image #13 335x290
+    disposal asis
+  + image #14 335x290
+    disposal asis
+  + image #15 335x290
+    disposal asis
+  + image #16 335x290
+    disposal asis
+  + image #17 335x290
+    disposal asis
+  + image #18 335x290
+    disposal asis
+  + image #19 335x290
+    disposal asis
+  + image #20 335x290
+    disposal asis
+  + image #21 335x290
+    disposal asis
+  + image #22 335x290
+    disposal asis
+  + image #23 335x290
+    disposal asis
+  + image #24 335x290
+    disposal asis
+  + image #25 335x290
+    disposal asis
+  + image #26 335x290
+    disposal asis
+  + image #27 335x290
+    disposal asis
+  + image #28 335x290
+    disposal asis
+  + image #29 335x290
+    disposal asis
+  + image #30 335x290
+    disposal asis
+  + image #31 335x290
+    disposal asis
+  + image #32 335x290
+    disposal asis
+  + image #33 335x290
+    disposal asis
+  + image #34 335x290
+    disposal asis
+  + image #35 335x290
+    disposal asis
+  + image #36 335x290
+    disposal asis
+  + image #37 335x290
+    disposal asis
+  + image #38 335x290
+    disposal asis
+  + image #39 335x290
+    disposal asis
+  + image #40 335x290
+    disposal asis
+  + image #41 335x290
+    disposal asis
+  + image #42 335x290
+    disposal asis
+  + image #43 335x290
+    disposal asis
+  + image #44 335x290
+    disposal asis
+  + image #45 335x290
+    disposal asis
+  + image #46 335x290
+    disposal asis
+  + image #47 335x290
+    disposal asis
+  + image #48 335x290
+    disposal asis
+  + image #49 335x290
+    disposal asis
+  + image #50 335x290
+    disposal asis
+  + image #51 335x290
+    disposal asis
+  + image #52 335x290
+    disposal asis
+  + image #53 335x290
+    disposal asis
+  + image #54 335x290
+    disposal asis
+  + image #55 335x290
+    disposal asis
+  + image #56 335x290
+    disposal asis
+  + image #57 335x290
+    disposal asis
+  + image #58 335x290
+    disposal asis
+  + image #59 335x290
+    disposal asis
+  + image #60 335x290
+    disposal asis
+  + image #61 335x290
+    disposal asis
+  + image #62 335x290
+    disposal asis
+  + image #63 335x290
+    disposal asis
+  + image #64 335x290
+    disposal asis
+  + image #65 335x290
+    disposal asis
+  + image #66 335x290
+    disposal asis
+  + image #67 335x290
+    disposal asis
+  + image #68 335x290
+    disposal asis
+  + image #69 335x290
+    disposal asis
+  + image #70 335x290
+    disposal asis
+  + image #71 335x290
+    disposal asis
+  + image #72 335x290
+    disposal asis
+  + image #73 335x290
+    disposal asis
+  + image #74 335x290
+    disposal asis
+  + image #75 335x290
+    disposal asis
+  + image #76 335x290
+    disposal asis
+  + image #77 335x290
+    disposal asis
+  + image #78 335x290
+    disposal asis
+  + image #79 335x290
+    disposal asis
+  + image #80 335x290
+    disposal asis
+  + image #81 335x290
+    disposal asis
+  + image #82 335x290
+    disposal asis
+  + image #83 335x290
+    disposal asis
+  + image #84 335x290
+    disposal asis
+  + image #85 335x290
+    disposal asis
+  + image #86 335x290
+    disposal asis
+  + image #87 335x290
+    disposal asis
+  + image #88 335x290
+    disposal asis
