@@ -182,17 +182,17 @@ def process_script(script,id):
     webp_path = c2webp(discrepancy_path)
     return webps2awebp(script,webp_path,id)
 
-'''
+if __name__=='__main__':
+    if len(sys.argv)>1:
         credential = url_engine(sys.argv[1])
         if credential=='0':
           while credential=='0':
                 credential = url_engine(raw_input('Please enter pixiv url or pixiv id:'))
     else:
-'''
-    credential = '0'
-    while credential=='0':
-        credential = url_engine(raw_input('Please enter pixiv url or pixiv id:'))
-script = get_script(credential)
-path = process_script(script,credential)
-copy2clipboard(path)
-print 'Success~'
+        credential = '0'
+        while credential=='0':
+            credential = url_engine(raw_input('Please enter pixiv url or pixiv id:'))
+    script = get_script(credential)
+    path = process_script(script,credential)
+    copy2clipboard(path)
+    print 'Success~'
